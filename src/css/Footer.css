@@ -1,0 +1,17 @@
+.Footer{
+    padding: 10px;
+    bottom: 0px;
+    background-color: #FFFDFB;
+    color: #2A5C5D;
+    width: 83vw;
+    overflow: hidden;
+    height: 17vh;
+}
+.footer-logo {
+    width: 35%;
+    padding: 20px;
+}
+.footer-col {
+    text-align: left;
+    font-size: 12px;
+}

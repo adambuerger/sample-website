@@ -1,0 +1,21 @@
+.funpic {
+    height: 100%;
+    width: 41vw;
+}
+.review {
+    padding: 10% 10px 10% 10px;
+    height: 100%;
+}
+.carousel {
+    background-color: #EDEDE6;
+}
+.ant-carousel .slick-dots {
+
+}
+.ant-carousel .slick-dots li {
+    width: 6px;
+    height: 6px;
+  }
+.ant-carousel .slick-dots li.slick-active {
+    background: #EDEDE6;
+}

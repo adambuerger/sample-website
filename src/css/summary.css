@@ -1,0 +1,44 @@
+.summary {
+    border: solid #5865f2;
+    border-width: 5px;
+    border-radius: 10px;
+    text-align: center;
+    width: 100%
+}
+.container {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.name-id {
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.name {
+    width: 60%;
+    margin-right: 2px;
+}
+.id {
+    align-items: center;
+    width: 38%;
+}
+.name, .id {
+    font-size: large;
+    text-align: center;
+    background-color: #e0e3ff;
+    color: #1f1f1f;
+    border-radius: 5px;
+    vertical-align: middle;
+}
+img {
+    width: 100%;
+}
+.row {
+    margin: 0px;
+    padding-top: 10px;
+}
+.title {
+    background-color: #e0e3ff;
+    
+}
